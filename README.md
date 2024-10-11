@@ -10,7 +10,7 @@ There are numerous approaches for optimizing the classic and multinomial logisti
 
 ### Dependencies
 
-* The project could be uploaded and run on Colab or on Jupyter Notebook locally. Refer to https://docs.anaconda.com/anaconda/install/windows/ for configuring Anaconda on your system.
+* The project can be uploaded and run on Colab or on Jupyter Notebook locally. Refer to https://docs.anaconda.com/anaconda/install/windows/ for configuring Anaconda on your system.
 
 ## Authors
 
@@ -18,9 +18,6 @@ Ruslan Nuriev
 
 ## Acknowledgments
 
-* [Distance Based Outliers](https://www.researchgate.net/publication/225179594_Distance-Based_Outliers_Algorithms_and_Applications)
-* [Farthest First Traversal](https://github.com/xuwd11/Coursera-Bioinformatics/blob/master/51_01_FarthestFirstTraversal.py)
-* [Reservoir Sampling](https://cesa-bianchi.di.unimi.it/Algo2/Note/reservoir.pdf)
-* [Reservoir Sampling & Sticky Sampling](https://www.dei.unipd.it/~geppo/PrAvAlg/DOCS/DFchapter08.pdf)
-* [Resilient Distributed Dataset](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
-* [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
+* [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
+* [Logistic Regression](https://people.stat.sc.edu/gregorkb/Tutorials/MultLogReg_Algs.pdf)
+* [Coordinate Descent](https://www.stat.cmu.edu/~ryantibs/convexopt-S15/lectures/22-coord-desc.pdf)
